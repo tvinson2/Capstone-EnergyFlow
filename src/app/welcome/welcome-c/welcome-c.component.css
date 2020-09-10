@@ -1,0 +1,22 @@
+
+.cman{
+    width:800px;
+    margin:0 auto;
+}
+.hyperspeed{
+    position: absolute;
+    margin: auto;
+    width: 100%;
+    border: 3px solid green;
+    padding: 10px;
+}
+.okay div{
+    position: relative;
+    width: 50%;
+    margin: auto;
+    padding: 30px;
+    border-style: dotted;
+    border-width: 10px;
+    border-color: turquoise;
+    
+}
